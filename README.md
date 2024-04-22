@@ -22,12 +22,12 @@ To view the website locally on your machine, follow these steps:
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/your-username/starbucks-website-clone.git
+   git clone https://github.com/sagnikbose-11-01/Starbucks-Clone.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd starbucks-website-clone
+   cd Starbucks-Clone
    ```
 
 3. Open the `index.html` file in your web browser to view the website.
