@@ -4,7 +4,7 @@ This project is a responsive clone of the Starbucks website, built using HTML, J
 
 ## Live Demo
 
-You can view a live demo of the Starbucks Website Clone [here](https://responsive-starbucks-by-sagnik.netlify.app/).
+You can view a live demo of the Starbucks Website Clone [here](https://starbucks-clone-blue.vercel.app/).
 
 ## Features
 
